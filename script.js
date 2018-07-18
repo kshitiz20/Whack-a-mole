@@ -23,7 +23,7 @@ function startGame(){
 	gameOver=false;
 	setTimeout(function(){
 		return gameend();
-	},5000);
+	},15000);
 }
 
 function startMoles(){
