@@ -32,7 +32,7 @@ function startMoles(){
 	jumpUp.show();
 	jumpUp.animate({
 		top:'50px'
-	},1000);
+	},500);
 	setTimeout(function(){
 		jumpUp.animate({
 		top:'250px'
