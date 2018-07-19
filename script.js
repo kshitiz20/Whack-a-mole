@@ -41,7 +41,7 @@ function startMoles(){
 
 
 
-	},1000);
+	},500);
 
 	console.log(jumpUp);
 }
