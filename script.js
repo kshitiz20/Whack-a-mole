@@ -21,6 +21,7 @@ function startGame(){
 	$('.score').text(score);
 	startMoles();
 	gameOver=false;
+	$('.message').html('');
 	setTimeout(function(){
 		return gameend();
 	},15000);
